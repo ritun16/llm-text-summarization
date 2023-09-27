@@ -1,0 +1,7 @@
+openai==0.28.0
+scikit-learn==1.3.1
+langchain==0.0.300
+spacy==3.6.1 # After installing spacy, run: python3 -m spacy download en_core_web_sm
+tiktoken
+tenacity
+python-dotenv

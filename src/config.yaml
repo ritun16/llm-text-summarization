@@ -1,0 +1,33 @@
+cluster_summarization:
+  final_dense: false
+  num_closest_points_per_cluster: 1
+  num_clusters: 4
+cod:
+  frequency_penalty: 0
+  max_tokens: 4000
+  model_name: gpt-4-0613
+  presence_penalty: 0
+  temperature: 0.3
+  top_p: 1.0
+embedding:
+  chunk_size: 10
+  model_name: text-embedding-ada-002
+  total_tokens: 8190
+io_config:
+  input_file: asia_cup_23.txt
+  output_file: asia_cup_23.json
+kw_extract:
+  frequency_penalty: 0
+  max_tokens: 500
+  model_name: gpt-3.5-turbo-0613
+  presence_penalty: 0
+  temperature: 0.3
+  top_p: 1.0
+map_reduce:
+  final_dense: false
+sentence_splitter:
+  approx_total_doc_tokens: 1000
+  tolerance_limit_tokens: 200
+summary_type_token_limit:
+  medium: 30000
+  short: 3800
