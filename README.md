@@ -3,6 +3,10 @@ A comprehensive guide and codebase for text summarization harnessing the capabil
 
 📄 **Article**: [I highly recommend reading this article before diving into the code.](https://medium.com/llm-summarization)
 
+## Architecture
+![Full_Architecture](https://github.com/ritun16/llm-text-summarization/assets/44939374/5e6f62a4-5356-43ff-9500-11f8e4d60dd7)
+
+
 ## 🚀 Getting Started
 1. **Clone the Repository**
 2. **Install Dependencies**: 
