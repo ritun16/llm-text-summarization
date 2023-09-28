@@ -1,7 +1,7 @@
 # LLM-based Text Summarization: Novice to Maestro 🚀
 A comprehensive guide and codebase for text summarization harnessing the capabilities of Large Language Models (LLMs). Delve deep into techniques, from chunking to clustering, and maximize the potential of LLMs like GPT-3.5 and GPT-4.
 
-📄 **Article**: [I highly recommend reading this article before diving into the code.](https://medium.com/llm-summarization)
+📄 **Article**: [I highly recommend reading this article before diving into the code.](https://sourajit16-02-93.medium.com/text-summarization-unleashed-novice-to-maestro-with-llms-and-instant-code-solutions-8d26747689c4)
 
 ## Architecture
 ![Full_Architecture](https://github.com/ritun16/llm-text-summarization/assets/44939374/5e6f62a4-5356-43ff-9500-11f8e4d60dd7)
