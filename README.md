@@ -54,4 +54,6 @@ The output JSON comprises:
 - `keywords`: important keywords and phrases
 - `metadata`: Provides total time (in seconds) taken to execute your summary, total cost (in USD) for openai, and total token counts in the whole process
 
-❤️ If this repository helps, please star, and share! Happy coding!
+❤️ If this repository helps, please star ⭐, and share ✔️! <br>
+If you also found the [article](https://sourajit16-02-93.medium.com/text-summarization-unleashed-novice-to-maestro-with-llms-and-instant-code-solutions-8d26747689c4) informative and think it could be beneficial to others, I'd be grateful if you could like 👍, follow 👉, and share✔️ the piece with others. <br>
+Happy coding!
